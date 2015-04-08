@@ -27,6 +27,8 @@
     </Content>
     <Compile Include="server.js" />
     <Compile Include="js\lib\adapter.js" />
+    <Content Include="Web.config" />
+    <None Include="Web.Debug.config" />
     <None Include="webrtc-youcc.pubxml" />
   </ItemGroup>
   <ItemGroup>
